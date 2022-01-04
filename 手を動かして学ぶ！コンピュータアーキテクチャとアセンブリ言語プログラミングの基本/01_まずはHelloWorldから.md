@@ -273,7 +273,7 @@ TotalMilliseconds : 5029.7143
       <th>プログラム</th><th>概要</th><th>実行例</th>
     </tr>
     <tr>
-      <td>fizzbuzz.fe</td><td>FizzBuzzをするプログラムです。</td><td>> python mlfe.py fzbz.fe</td>
+      <td>fizzbuzz.fe</td><td>FizzBuzzをするプログラムです。</td><td>> python mlfe.py fizzbuzz.fe</td>
     </tr>
     <tr>
       <td>rdp.fe</td><td>簡単な四則演算をしてくれるプログラムです。</td><td>> echo "3 * (2 + (10 / 2)) - 8" | python mlfe.py rdp.fe</td>
