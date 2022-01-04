@@ -25,8 +25,6 @@
 
 MLFEではこのノイマン型コンピュータを採用している。以下の図を基にどのように命令が実行されているか説明します。
 
-![CPUM.png](img/CPUM.png)
-
 <div align="center">
     <img 
         src="img\\CPUM.png"
